@@ -9,8 +9,8 @@
     <a href="https://lbdigitalcreations.in" target="_blank">
       <img src="https://img.shields.io/badge/Startup-lbdigitalcreations.in-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Startup Website"/>
     </a>
-    <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <a href="https://www.linkedin.com/in/logeshwaran-g-15bb0538b" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-Logeshwaran_G-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     <a href="mailto:contact@lbdigitalcreations.in">
       <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
@@ -25,7 +25,7 @@
 
 ### 👨‍💻 About Me & My Story
 
-I am a passionate **Software Engineer and Tech Entrepreneur** with a strong foundation in **Artificial Intelligence and Data Science**. I bridge the gap between complex backend architectures and intuitive, pixel-perfect user interfaces.
+I am a passionate **Software Engineer and Tech Entrepreneur** with a strong foundation in **Artificial Intelligence and Data Science**. I bridge the gap between complex backend architectures and intuitive, high-performance user interfaces.
 
 Whether building scalable institutional web portals handling thousands of active users or crafting high-converting custom digital presences for clients, I believe that **great software is built at the intersection of performance, clean design, and real-world utility**.
 
@@ -145,7 +145,7 @@ Whether building scalable institutional web portals handling thousands of active
 I'm always excited to talk about technology, startup ideas, freelancing projects, or AI research.
 
 - 🌐 **Company Website:** [lbdigitalcreations.in](https://lbdigitalcreations.in)
-- 💼 **LinkedIn:** [Connect with Logeshwaran](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+- 💼 **LinkedIn:** [Logeshwaran G](https://www.linkedin.com/in/logeshwaran-g-15bb0538b)
 - 📧 **Direct Inquiries:** [contact@lbdigitalcreations.in](mailto:contact@lbdigitalcreations.in)
 
 <div align="center">
